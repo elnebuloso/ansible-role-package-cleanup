@@ -1,0 +1,3 @@
+---
+packge_cleanup_autoclean: "yes"
+packge_cleanup_autoremove: "yes"
